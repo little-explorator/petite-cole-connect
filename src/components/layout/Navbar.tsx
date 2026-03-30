@@ -39,9 +39,8 @@ const Navbar = () => {
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 shrink-0">
           <span className="text-lg md:text-xl font-heading font-bold text-primary leading-tight">
-            La Petite École
+            Garderie La Petite École de Mirabel
           </span>
-          <span className="hidden sm:block text-xs text-muted-foreground font-body">de Mirabel</span>
         </Link>
 
         {/* Desktop Nav */}
